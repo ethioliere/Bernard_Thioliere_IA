@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <enonce>De combien de degré de liberté est pourvu une liaison de type “rotule” ?</enonce>
+    <reponses>
+      <string>1</string>
+      <string>2</string>
+      <string>3</string>
+      <string>4</string>
+    </reponses>
+    <bonneReponse>2</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Qu’est-ce qui caractérise une IA forte ?</enonce>
+    <reponses>
+      <string>Une conscience et une personnalité</string>
+      <string>La complexité du programme</string>
+      <string>Un algorithme génétique</string>
+      <string>Un apprentissage automatique</string>
+    </reponses>
+    <bonneReponse>0</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>La stratégie FIFO est une stratégie qui…</enonce>
+    <reponses>
+      <string>Parcourt en longueur d’abord</string>
+      <string>Parcourt en profondeur d’abord</string>
+      <string>Parcourt en largeur d’abord</string>
+      <string>Parcourt en surface d’abord</string>
+    </reponses>
+    <bonneReponse>2</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Quelle est la différence entre un algorithme MinMax et un algorithme Alpha Beta ?</enonce>
+    <reponses>
+      <string>L’algorithme MinMax est plus rapide car plus optimisé</string>
+      <string>Alpha Beta évite le développement de branches inutiles</string>
+      <string>Il n’y aucune différence : les deux noms désignent le même type d’algorithme</string>
+      <string>L’algorithme Alpha Beta n’existe pas</string>
+    </reponses>
+    <bonneReponse>1</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Un des objectifs de l’algorithme de Dijkstra est :</enonce>
+    <reponses>
+      <string>De permettre la reconnaissance faciale</string>
+      <string>Trouver le plus court chemin entre une état initial et un état final</string>
+      <string>Trouver la solution mathématique de polynômes du troisième degré</string>
+      <string>Calculer le pourcentage de réussite d’un processus</string>
+    </reponses>
+    <bonneReponse>1</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Le problème de Dijkstra utilise une exploration :</enonce>
+    <reponses>
+      <string>Longitudinale</string>
+      <string>Pyramidale</string>
+      <string>Radiale</string>
+      <string>En profondeur</string>
+    </reponses>
+    <bonneReponse>2</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>“L’algorithme de Dijkstra prend en compte le contexte ou les informations de haut niveau pour guider la recherche ou décomposer le problème en sous-problèmes”. Cette affirmation est :</enonce>
+    <reponses>
+      <string>Toujours vraie</string>
+      <string>Toujours fausse</string>
+      <string>Vraie uniquement si le nombre de successeurs est très grand</string>
+      <string>Vraie uniquement si on indique explicitement à l’algorithme de le faire</string>
+    </reponses>
+    <bonneReponse>1</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Une matrice d’adjacence est :</enonce>
+    <reponses>
+      <string>toujours symétrique</string>
+      <string>symétrique si le graphe est orienté</string>
+      <string>symétrique si le graphe n’est pas orienté</string>
+      <string>jamais symétrique</string>
+    </reponses>
+    <bonneReponse>2</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Un graphe non orienté est composé de trois points A, B, C. Il y a une arête uniquement entre A et B, et B et C. La relation entre A et B vaut 2 et la relation entre B et C vaut 1. Quelle valeur y a-t-il dans les cases [A;C] et [C;A] de la matrice d’adjacence ?</enonce>
+    <reponses>
+      <string>-1</string>
+      <string>1</string>
+      <string>3</string>
+      <string>On a besoin de connaître l’angle ABC pour calculer cette valeur</string>
+    </reponses>
+    <bonneReponse>0</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Dans quel cas, l’algorithme A* n’est pas équivalent à Dijkstra ?</enonce>
+    <reponses>
+      <string>Pour la stratégie de classement des nœuds qui sont placés dans les Fermés</string>
+      <string>Pour la stratégie de classement des nœuds qui sont placés dans les Ouverts</string>
+      <string>Les deux algorithmes sont toujours équivalents</string>
+      <string>Il n’est jamais équivalent à Dijkstra</string>
+    </reponses>
+    <bonneReponse>1</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>L’heuristique h(N) permet…</enonce>
+    <reponses>
+      <string>d’afficher le chemin restant pour atteindre le but</string>
+      <string>d’afficher le chemin entre le point de départ et le point d’arrivée</string>
+      <string>d’estimer le coût du chemin entre le point de départ et et le point d’arrivée</string>
+      <string>d’estimer le coût du chemin restant pour atteindre le but</string>
+    </reponses>
+    <bonneReponse>3</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Quelle est la formule de Tri des ouverts en fonction de f(N) ?</enonce>
+    <reponses>
+      <string>f(N) = coût_chemin (N) + h(N)</string>
+      <string>f(N) = coût_chemin (N) * h(N)</string>
+      <string>f(N) = (coût_chemin (N) + h(N))/2</string>
+      <string>f(N) = h(N) - coût_chemin (N)</string>
+    </reponses>
+    <bonneReponse>0</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Sous quelle condition A* garantit que le chemin trouvé est le plus court ?</enonce>
+    <reponses>
+      <string>Si h(N) est un minorant du coût du chemin restant réel</string>
+      <string>Si h(N) est un majorant du coût du chemin restant réel</string>
+      <string>Si h(N) = 0</string>
+      <string>Si h(N) est un entier</string>
+    </reponses>
+    <bonneReponse>0</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Quel est le point fort d’un algorithme génétique ?</enonce>
+    <reponses>
+      <string>Le code évolue de lui-même</string>
+      <string>Il permet d’effectuer de multiples recherches simultanées</string>
+      <string>Il est facilement applicable à une situation présentant de nombreux variables</string>
+      <string>Il s’adapte à son environnement</string>
+    </reponses>
+    <bonneReponse>1</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Si on pose h(N)=0 pour tout N, alors</enonce>
+    <reponses>
+      <string>A* équivalent à Dijkstra</string>
+      <string>On ne peut pas utiliser Dijkstra</string>
+      <string>On ne peut pas utiliser A*</string>
+      <string>On doit utiliser MinMax</string>
+    </reponses>
+    <bonneReponse>0</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Dans un graphe, quelle est la différence entre un arc et une arête</enonce>
+    <reponses>
+      <string>Aucune, les deux termes désignent la même chose</string>
+      <string>L’arête désigne une relation dans un graphe orienté alors que pour l’arc le graphe est non orienté</string>
+      <string>L’arête désigne une relation dans un graphe non orienté alors que pour l’arc le graphe est orienté</string>
+      <string>Un arc relie trois points alors qu’une arête en relie deux</string>
+    </reponses>
+    <bonneReponse>2</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>De quoi n’a-t-on pas besoin dans un algorithme génétique où l’on veut trouver la valeur optimale ?</enonce>
+    <reponses>
+      <string>Une grande population de valeurs</string>
+      <string>Une fonction d’évaluation d’une valeur</string>
+      <string>Une fonction de mutation qui modifie les valeurs ayant la moins bonne note</string>
+      <string>Une fonction de croisement de deux valeurs</string>
+    </reponses>
+    <bonneReponse>2</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Quelle est la bonne orthographe :</enonce>
+    <reponses>
+      <string>Djikstra</string>
+      <string>Dijsktra</string>
+      <string>Djisktra</string>
+      <string>Dijkstra</string>
+    </reponses>
+    <bonneReponse>3</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Parmi les assertions suivantes, laquelle est un principe de base de la théorie des jeux ?</enonce>
+    <reponses>
+      <string>On considère que l’adversaire est aussi doué que soi-même</string>
+      <string>On considère que la victoire réside dans la compréhension des règles du jeu</string>
+      <string>On considère que l’adversaire a plus de chance que nous</string>
+      <string>On considère que l’adversaire joue de façon optimale</string>
+    </reponses>
+    <bonneReponse>3</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Si on compare au “model based” le “data based”, on peut dire que ce dernier est</enonce>
+    <reponses>
+      <string>Globalement identique au premier</string>
+      <string>Complètement différent du premier</string>
+      <string>Basé sur un faible nombre de données</string>
+      <string>Basé sur un grand nombre de données</string>
+    </reponses>
+    <bonneReponse>3</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Enlever une heuristique consiste à</enonce>
+    <reponses>
+      <string>Compliquer la résolution du problème</string>
+      <string>Modifier le sens d’exploration de l’arbre d’exploration</string>
+      <string>Supprimer une contrainte pour simplifier le problème</string>
+      <string>Enlever une partie des possibilités pour se focaliser sur l’autre partie</string>
+    </reponses>
+    <bonneReponse>2</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Qu’est ce que “l’espace d’états” ?</enonce>
+    <reponses>
+      <string>L’ensemble des positions que l’on peut attendre au prochain coup</string>
+      <string>L’ensemble des positions que l’on peut attendre depuis l’état initial avec un nombre de coups illimités</string>
+      <string>L’ensemble des positions initialement connues</string>
+      <string>L’ensemble des positions effectivement atteintes lorsque l’on est arrivé à l’état final</string>
+    </reponses>
+    <bonneReponse>1</bonneReponse>
+  </Question>
+  <Question>
+    <enonce>Un arbre d’exploration correspond à :</enonce>
+    <reponses>
+      <string>L’ensemble des possibilités d’exploration de l’algorithme</string>
+      <string>L’ensemble des possibilités l’algorithme que l’algorithme a exploré</string>
+      <string>L’ensemble des possibilités amenant au résultat voulu</string>
+      <string>L’ordre dans lequel les possibilités vont être explorées</string>
+    </reponses>
+    <bonneReponse>0</bonneReponse>
+  </Question>
+</ArrayOfQuestion>

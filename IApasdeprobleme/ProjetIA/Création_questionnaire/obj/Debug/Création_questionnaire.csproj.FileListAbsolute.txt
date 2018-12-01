@@ -1,0 +1,8 @@
+H:\2A\IA\IApasdeproblemes-master (2)\IApasdeproblemes-master\ProjetIA\Création_questionnaire\bin\Debug\Création_questionnaire.exe.config
+H:\2A\IA\IApasdeproblemes-master (2)\IApasdeproblemes-master\ProjetIA\Création_questionnaire\bin\Debug\Création_questionnaire.exe
+H:\2A\IA\IApasdeproblemes-master (2)\IApasdeproblemes-master\ProjetIA\Création_questionnaire\bin\Debug\Création_questionnaire.pdb
+H:\2A\IA\IApasdeproblemes-master (2)\IApasdeproblemes-master\ProjetIA\Création_questionnaire\bin\Debug\Partie1.exe
+H:\2A\IA\IApasdeproblemes-master (2)\IApasdeproblemes-master\ProjetIA\Création_questionnaire\bin\Debug\Partie1.pdb
+H:\2A\IA\IApasdeproblemes-master (2)\IApasdeproblemes-master\ProjetIA\Création_questionnaire\obj\Debug\Création_questionnaire.csprojResolveAssemblyReference.cache
+H:\2A\IA\IApasdeproblemes-master (2)\IApasdeproblemes-master\ProjetIA\Création_questionnaire\obj\Debug\Création_questionnaire.exe
+H:\2A\IA\IApasdeproblemes-master (2)\IApasdeproblemes-master\ProjetIA\Création_questionnaire\obj\Debug\Création_questionnaire.pdb
